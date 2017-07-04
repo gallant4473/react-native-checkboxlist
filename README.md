@@ -57,13 +57,8 @@ import CheckboxList from 'react-native-checkboxlist'
 ## 截图
 示例1
 
-![example](https://github.com/hinet/react-native-checkboxlist/blob/master/assets/images/screenshot02.png)
+![example](https://github.com/gallant4473/react-native-checkboxlist/blob/master/assets/images/screenshot02.png)
 
 示例2
 
-![example](https://github.com/hinet/react-native-checkboxlist/blob/master/assets/images/screenshot01.png)
-
-
-
-
-
+![example](https://github.com/gallant4473/react-native-checkboxlist/blob/master/assets/images/screenshot01.png)

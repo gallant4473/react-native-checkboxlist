@@ -1,14 +1,14 @@
 'use strict';
 
-import React from 'react-native';
-var {
+import React from 'react';
+import {
     Text,
     TouchableOpacity,
     View,
     Image,
-    ListView,
-    PropTypes
-    } = React;
+    ListView
+  } from 'react-native'
+import PropTypes from 'prop-types'
 
 import BaseComponent from './BaseComponent'
 import Styles from './styles'
